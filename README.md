@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Fala dev, eu sou o Bueno
 
-<!--
-**XxMisticoxX/XxMisticoxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia, jogos e soluções criativas.  
+🚀 Sempre aprendendo, sempre construindo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+- 👨‍💻 Desenvolvedor focado em criar experiências funcionais e bem estruturadas
+- 🎮 Curto bastante o universo de games e projetos interativos
+- 🛠️ Gosto de transformar ideias em código
+
+---
+
+## 🎮 404 Game Not Found
+Sou **desenvolvedor da 404 Game Not Found**, um projeto focado em criação de jogos e experiências digitais.
+
+🔗 **Acesse o projeto aqui:**  
+👉 [404 Game Not Found](COLOQUE_AQUI_O_LINK)
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+- 💡 Linguagens: `JavaScript`, `Python`, `C#`, `Lua` *(ajuste como quiser)*
+- 🧱 Frameworks & Engines: `Unity`, `Godot`, `Node.js`
+- ⚙️ Outros: `Git`, `GitHub`, `APIs`, `SQL`
+
+---
+
+## 📈 GitHub Stats
+![Bueno GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📫 Onde me encontrar
+- 💼 GitHub: [github.com/SEU_USERNAME](https://github.com/SEU_USERNAME)
+- 🌐 Portfólio / Projeto: [404 Game Not Found](COLOQUE_AQUI_O_LINK)
+
+---
+
+⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
