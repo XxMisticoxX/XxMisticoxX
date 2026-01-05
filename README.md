@@ -35,8 +35,8 @@ Sou **desenvolvedor da 404 Game Not Found**, um projeto focado em criação de j
 ## 📫 Onde me encontrar
 - 💼 GitHub: [github.com/XxMisticoxX](https://github.com/XxMisticoxX)
 - 🌐 Projeto atual: [Realmfall](https://github.com/404gnf-studios/realmfall.git)
-- <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+-<a href="https://instagram.com/gt_lndz" target="_blank">
+  <img src="https://img.shields.io/badge/@gt_lndz-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 ---
