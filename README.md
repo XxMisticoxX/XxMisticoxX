@@ -1,4 +1,4 @@
-# 👋 Fala dev, eu sou o Bueno
+# 👋 DEV Mateus aqui!
 
 💻 Desenvolvedor apaixonado por tecnologia, jogos e soluções criativas.  
 🚀 Sempre aprendendo, sempre construindo.
@@ -16,26 +16,26 @@
 Sou **desenvolvedor da 404 Game Not Found**, um projeto focado em criação de jogos e experiências digitais.
 
 🔗 **Acesse o projeto aqui:**  
-👉 [404 Game Not Found](COLOQUE_AQUI_O_LINK)
+👉 [404 Game Not Found](https://github.com/404gnf-studios)
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
-- 💡 Linguagens: `JavaScript`, `Python`, `C#`, `Lua` *(ajuste como quiser)*
+- 💡 Linguagens: `JavaScript`, `Python`, `C#`, `Lua` 
 - 🧱 Frameworks & Engines: `Unity`, `Godot`, `Node.js`
-- ⚙️ Outros: `Git`, `GitHub`, `APIs`, `SQL`
+- ⚙️ Outros: `Git`, `GitHub`, `APIs`
 
 ---
 
 ## 📈 GitHub Stats
-![Bueno GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Bueno GitHub Stats](https://github-readme-stats.vercel.app/api?username=XxmisticoxX&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Onde me encontrar
-- 💼 GitHub: [github.com/SEU_USERNAME](https://github.com/SEU_USERNAME)
-- 🌐 Portfólio / Projeto: [404 Game Not Found](COLOQUE_AQUI_O_LINK)
+- 💼 GitHub: [github.com/XxMisticoxX](https://github.com/XxMisticoxX)
+- 🌐 Projeto atual: [Realmfall](https://github.com/404gnf-studios/realmfall.git)
 
 ---
 
-⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
+
