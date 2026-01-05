@@ -25,19 +25,12 @@ Sou **desenvolvedor da 404 Game Not Found**, um projeto focado em criação de j
 - 🧱 Frameworks & Engines: `Unity`, `Godot`, `Node.js`
 - ⚙️ Outros: `Git`, `GitHub`, `APIs`
 
----
-
-## 📈 GitHub Stats
-![Bueno GitHub Stats](https://github-readme-stats.vercel.app/api?username=XxmisticoxX&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Onde me encontrar
 - 💼 GitHub: [github.com/XxMisticoxX](https://github.com/XxMisticoxX)
 - 🌐 Projeto atual: [Realmfall](https://github.com/404gnf-studios/realmfall.git)
--<a href="https://instagram.com/gt_lndz" target="_blank">
-  <img src="https://img.shields.io/badge/@gt_lndz-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
 
 ---
 
